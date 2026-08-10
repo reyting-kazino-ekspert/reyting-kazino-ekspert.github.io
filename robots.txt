@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: reyting-kazino-ekspert.github.io
+Sitemap: https://reyting-kazino-ekspert.github.io/sitemap.xml
